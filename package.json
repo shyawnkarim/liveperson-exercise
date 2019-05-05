@@ -1,0 +1,16 @@
+{
+  "name": "liveperson-exercise",
+  "version": "1.0.0",
+  "description": "Coding exercise for LivePerson.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Shyawn Karim <shyawnkarim@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "ws": "^7.0.0"
+  }
+}
